@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0cfb39b8-37cf-4e2c-b529-087211365e79" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04varibles/Conversation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04varibles/DeclarartionTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04varibles/FirstVarible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04varibles/VariablesPrctice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06_aritmmetic_operators/ArithemticOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06_aritmmetic_operators/CalculateAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06_aritmmetic_operators/CarDriveInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day06_aritmmetic_operators/MoreMathOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10_shorthand_operators/ChangeBalance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10_shorthand_operators/ChangeVariabValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10_shorthand_operators/IncrementDecrementOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10_shorthand_operators/NextLineBug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10_shorthand_operators/WeatherToday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10_shorthand_operators/shortHandOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day11_comparison_Operators/booleanComparisonOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day11_comparison_Operators/propost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12_conditional_statements/AmzoneFreeShipping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12_conditional_statements/CompareChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12_conditional_statements/ComparionExaples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12_conditional_statements/IF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12_conditional_statements/IF_else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12_conditional_statements/If_Eles_Statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13_IF_Else_Statement/ATMP_in_program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13_IF_Else_Statement/if_esle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/MySquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/MyTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/PringtingPrctice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/PrintVSPrintln.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2/TellMeAboutYourself.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/Comments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/EmployeeInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/EscapeSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/EscapeSequence2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/ShoppingReceipt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5_primtives__concatanaton/BooleanPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5_primtives__concatanaton/CellPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5_primtives__concatanaton/CharPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5_primtives__concatanaton/JobInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5_primtives__concatanaton/PrimtivesExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5_primtives__concatanaton/UsingVeriables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5_primtives__concatanaton/VariableWarmUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day5_primtives__concatanaton/WatchInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7ARITHMETIC_OPERATORS_casting/DivisionProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7ARITHMETIC_OPERATORS_casting/OperatorPrecendence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7ARITHMETIC_OPERATORS_casting/PrimitiveCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7ARITHMETIC_OPERATORS_casting/StringConcat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7ARITHMETIC_OPERATORS_casting/WarmUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7ARITHMETIC_OPERATORS_casting/more.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day8_casting_scanner/CastingExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day8_casting_scanner/ScannerIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day8_casting_scanner/ScannerPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day8_casting_scanner/ShoppingBalanceCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day9_scanner_practice/AddNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day9_scanner_practice/AskAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day9_scanner_practice/AskAge2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day9_scanner_practice/CC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day9_scanner_practice/CentsToDollor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day9_scanner_practice/GroceryShopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day9_scanner_practice/MilesToKmConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day9_scanner_practice/ReminderOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day9_scanner_practice/SpeedCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day9_scanner_practice/TempConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day9_scanner_practice/money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day_14_Multi_branch/multi_branch.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IcCYxIdw1gulV8wLZWfP83es09" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/zachzulikram/IdeaProjects/day 1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.multi_branch">
+    <configuration name="ATMP_in_program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day13_IF_Else_Statement.ATMP_in_program" />
+      <module name="Java Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day13_IF_Else_Statement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AmzoneFreeShipping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12_conditional_statements.AmzoneFreeShipping" />
+      <module name="Java Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day12_conditional_statements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IF_else" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12_conditional_statements.IF_else" />
+      <module name="Java Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day12_conditional_statements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="if_esle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day13_IF_Else_Statement.if_esle" />
+      <module name="Java Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day13_IF_Else_Statement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="multi_branch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_14_Multi_branch.multi_branch" />
+      <module name="Java Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_14_Multi_branch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.multi_branch" />
+        <item itemvalue="Application.if_esle" />
+        <item itemvalue="Application.ATMP_in_program" />
+        <item itemvalue="Application.AmzoneFreeShipping" />
+        <item itemvalue="Application.IF_else" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cfb39b8-37cf-4e2c-b529-087211365e79" name="Changes" comment="" />
+      <created>1670471540621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670471540621</updated>
+      <workItem from="1670471541824" duration="85000" />
+      <workItem from="1670472589517" duration="24298000" />
+      <workItem from="1670978502860" duration="31098000" />
+      <workItem from="1671402946124" duration="2096000" />
+      <workItem from="1671514330043" duration="4466000" />
+      <workItem from="1672169448415" duration="21219000" />
+      <workItem from="1672695429841" duration="1114000" />
+      <workItem from="1672702172057" duration="20123000" />
+      <workItem from="1673223018170" duration="69000" />
+      <workItem from="1673223097400" duration="66000" />
+      <workItem from="1673223169811" duration="4000" />
+      <workItem from="1673223188285" duration="14000" />
+      <workItem from="1673223289516" duration="905000" />
+      <workItem from="1673225713430" duration="45000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day2/MySquare.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day3/ShoppingReceipt.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day8_casting_scanner/CastingExamples.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day9_scanner_practice/AskAge.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day9_scanner_practice/AddNumbers.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day9_scanner_practice/SpeedCheck.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day9_scanner_practice/CentsToDollor.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day12_conditional_statements/IF.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day12_conditional_statements/If_Eles_Statement.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day13_IF_Else_Statement/if_esle.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day13_IF_Else_Statement/if_esle.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/day9_scanner_practice/AskAge.java</url>
+          <line>4</line>
+          <properties class="day9_scanner_practice.AskAge" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
