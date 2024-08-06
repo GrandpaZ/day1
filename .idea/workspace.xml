@@ -5,78 +5,384 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0cfb39b8-37cf-4e2c-b529-087211365e79" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java Study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04varibles/Conversation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04varibles/DeclarartionTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04varibles/FirstVarible.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day04varibles/VariablesPrctice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06_aritmmetic_operators/ArithemticOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06_aritmmetic_operators/CalculateAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06_aritmmetic_operators/CarDriveInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day06_aritmmetic_operators/MoreMathOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day10_shorthand_operators/ChangeBalance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day10_shorthand_operators/ChangeVariabValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day10_shorthand_operators/IncrementDecrementOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day10_shorthand_operators/NextLineBug.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day10_shorthand_operators/WeatherToday.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day10_shorthand_operators/shortHandOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11_comparison_Operators/booleanComparisonOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11_comparison_Operators/propost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day12_conditional_statements/AmzoneFreeShipping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day12_conditional_statements/CompareChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day12_conditional_statements/ComparionExaples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day12_conditional_statements/IF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day12_conditional_statements/IF_else.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day12_conditional_statements/If_Eles_Statement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13_IF_Else_Statement/ATMP_in_program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day13_IF_Else_Statement/if_esle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/MySquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/MyTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/PringtingPrctice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/PrintVSPrintln.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2/TellMeAboutYourself.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/Comments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/EmployeeInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/EscapeSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/EscapeSequence2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3/ShoppingReceipt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day5_primtives__concatanaton/BooleanPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day5_primtives__concatanaton/CellPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day5_primtives__concatanaton/CharPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day5_primtives__concatanaton/JobInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day5_primtives__concatanaton/PrimtivesExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day5_primtives__concatanaton/UsingVeriables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day5_primtives__concatanaton/VariableWarmUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day5_primtives__concatanaton/WatchInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day7ARITHMETIC_OPERATORS_casting/DivisionProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day7ARITHMETIC_OPERATORS_casting/OperatorPrecendence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day7ARITHMETIC_OPERATORS_casting/PrimitiveCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day7ARITHMETIC_OPERATORS_casting/StringConcat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day7ARITHMETIC_OPERATORS_casting/WarmUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day7ARITHMETIC_OPERATORS_casting/more.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day8_casting_scanner/CastingExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day8_casting_scanner/ScannerIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day8_casting_scanner/ScannerPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day8_casting_scanner/ShoppingBalanceCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day9_scanner_practice/AddNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day9_scanner_practice/AskAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day9_scanner_practice/AskAge2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day9_scanner_practice/CC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day9_scanner_practice/CentsToDollor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day9_scanner_practice/GroceryShopping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day9_scanner_practice/MilesToKmConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day9_scanner_practice/ReminderOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day9_scanner_practice/SpeedCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day9_scanner_practice/TempConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day9_scanner_practice/money.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day_14_Multi_branch/multi_branch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fuxi/Fu_XI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fuxi/array_111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods_test/Static_5_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods_test/test_static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/Library/inheritanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/Library/inheritanceTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_44_Constructor/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_48_OOP_InheritanceIntro/AnimalTask/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_48_OOP_InheritanceIntro/BOfa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_48_OOP_InheritanceIntro/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_49_Inheritanc_Practice/ScrumTeamTasks/AppleInc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_49_Inheritanc_Practice/ScrumTeamTasks/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_49_Inheritanc_Practice/ScrumTeamTasks/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_49_Inheritanc_Practice/ScrumTeamTasks/ScramTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_49_Inheritanc_Practice/ScrumTeamTasks/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_49_Inheritanc_Practice/ScrumTeamTasks/person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_49_Inheritanc_Practice/_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_50_Inheritanc_Overriding/AccessModifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_50_Inheritanc_Overriding/CarTesk/CarObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_50_Inheritanc_Overriding/CarTesk/Jeep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_50_Inheritanc_Overriding/CarTesk/Mercedes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_50_Inheritanc_Overriding/CarTesk/Tesla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_50_Inheritanc_Overriding/CarTesk/car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_50_Inheritanc_Overriding/CarTesk/honda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_50_Inheritanc_Overriding/ShapeTask/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_50_Inheritanc_Overriding/ShapeTask/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_50_Inheritanc_Overriding/ShapeTask/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_50_Inheritanc_Overriding/ShapeTask/ShapeOfObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_50_Inheritanc_Overriding/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_51_MethodOverridingContinue_Exceptions/BrowsersTask/BrowserObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_51_MethodOverridingContinue_Exceptions/BrowsersTask/ChromeBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_51_MethodOverridingContinue_Exceptions/BrowsersTask/FireFoxBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_51_MethodOverridingContinue_Exceptions/BrowsersTask/OperaBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_51_MethodOverridingContinue_Exceptions/BrowsersTask/WebDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_51_MethodOverridingContinue_Exceptions/SuperKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_51_MethodOverridingContinue_Exceptions/jjk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_52_Exceptions_continue/Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_52_Exceptions_continue/MultiCatchBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_52_Exceptions_continue/ThrowKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_52_Exceptions_continue/ThrowPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_52_Exceptions_continue/ThrowsKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_52_Exceptions_continue/Throws_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_53_CustomExceptions/BreaktimeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_53_CustomExceptions/FinalClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_53_CustomExceptions/FinalVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_53_CustomExceptions/InvalidBrowserNameException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_53_CustomExceptions/finalMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_54_OOP_Abstraction_Intro/CarTasks/BMW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_54_OOP_Abstraction_Intro/CarTasks/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_54_OOP_Abstraction_Intro/CarTasks/Jeep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_54_OOP_Abstraction_Intro/CarTasks/ParkingLot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_54_OOP_Abstraction_Intro/CarTasks/Tesla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_54_OOP_Abstraction_Intro/CarTasks/Toyota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_54_OOP_Abstraction_Intro/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_54_OOP_Abstraction_Intro/EmployeeTask/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_54_OOP_Abstraction_Intro/EmployeeTask/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_54_OOP_Abstraction_Intro/EmployeeTask/PenFed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_54_OOP_Abstraction_Intro/EmployeeTask/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_55_OOP_Abstraction_Continue/ShapeTasks/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_55_OOP_Abstraction_Continue/ShapeTasks/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_55_OOP_Abstraction_Continue/ShapeTasks/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_55_OOP_Abstraction_Continue/ShapeTasks/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_55_OOP_Abstraction_Continue/ShapeTasks/ShapeObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_55_OOP_Abstraction_Continue/v.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_56_OOP_Abstraction_Interface/AbstractClass_VS_Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_56_OOP_Abstraction_Interface/AnimalTask/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_56_OOP_Abstraction_Interface/AnimalTask/Bat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_56_OOP_Abstraction_Interface/AnimalTask/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_56_OOP_Abstraction_Interface/AnimalTask/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_56_OOP_Abstraction_Interface/AnimalTask/Eagle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_56_OOP_Abstraction_Interface/AnimalTask/Falcon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_56_OOP_Abstraction_Interface/AnimalTask/Flyable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_56_OOP_Abstraction_Interface/AnimalTask/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_56_OOP_Abstraction_Interface/AnimalTask/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_56_OOP_Abstraction_Interface/AnimalTask/Playable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_56_OOP_Abstraction_Interface/AnimalTask/Snake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_56_OOP_Abstraction_Interface/AnimalTask/Swimmable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_56_OOP_Abstraction_Interface/AnimalTask/Talkative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_56_OOP_Abstraction_Interface/AnimalTask/Turtle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_56_OOP_Abstraction_Interface/InterfacePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_56_OOP_Abstraction_Interface/PhoneTasks/Iphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_56_OOP_Abstraction_Interface/PhoneTasks/Samsung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_56_OOP_Abstraction_Interface/PhoneTasks/phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_56_OOP_Abstraction_Interface/z.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_57_OOP_Polymorphism/EmployeeTask/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_57_OOP_Polymorphism/EmployeeTask/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_57_OOP_Polymorphism/EmployeeTask/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_57_OOP_Polymorphism/EmployeeTask/ScrumMaster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_57_OOP_Polymorphism/EmployeeTask/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_57_OOP_Polymorphism/PhoneTasks/AndroidApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_57_OOP_Polymorphism/PhoneTasks/AppleApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_57_OOP_Polymorphism/PhoneTasks/Downloadable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_57_OOP_Polymorphism/PhoneTasks/Huawei.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_57_OOP_Polymorphism/PhoneTasks/Iphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_57_OOP_Polymorphism/PhoneTasks/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_57_OOP_Polymorphism/PhoneTasks/PhoneObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_57_OOP_Polymorphism/PhoneTasks/Samsung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_57_OOP_Polymorphism/z.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_58_OOP_Polymorphism/AnimalTasks/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_58_OOP_Polymorphism/AnimalTasks/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_58_OOP_Polymorphism/AnimalTasks/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_58_OOP_Polymorphism/AnimalTasks/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_58_OOP_Polymorphism/InstanceOf_Keyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_59_OOP_Review/Abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_59_OOP_Review/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N_Java_Day_to_Day/day_59_OOP_Review/z.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit/_001_HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit/_002_HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit/_003_PrintName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit/_004_PrintNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit/_005_FixNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit/_006_Cool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit/_007_PrintSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit/_008_PrintDiamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit/_009_PrintEmpireStateBuilding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit/_010_PrintVariable01_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit/_011_PrintVariable2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit/_012PrintVariable_03_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit/_012_ScannerIntro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit/_013_PrintVariable_04_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit/_014_PrintVariable_05_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit/_016_PrintVariable_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit/_017_PrintVariable_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit/_018_Primitives01_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit/_019_Primitives02_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit/_020_Time_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit/_021_Add_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit/_022_Shopping_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit/_023_Phone_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit/_024_Patient_Information2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit/_025_Greater_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit/_026_Positive_Negative_0_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit/_027_School_Grades_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replit/_028_Week_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day04varibles/First_Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day04varibles/conversatiion_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day10_shorthand_operators/nice_line_bug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day10_shorthand_operators/weather_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day11_comparison_Operators/boolean2_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day11_comparison_Operators/boolean_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day11_comparison_Operators/printNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day12_conditional_statements/IF_else_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day12_conditional_statements/compareChars_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day12_conditional_statements/enter_price.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day12_conditional_statements/speed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day13_IF_Else_Statement/ATM_Code.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day13_IF_Else_Statement/Mtt_ATM_V3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day13_IF_Else_Statement/Sales_Amount_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day13_IF_Else_Statement/Tem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day13_IF_Else_Statement/atm_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day13_IF_Else_Statement/is_hungry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day13_IF_Else_Statement/mtt_atmV4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day2/MY_triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day2/PRint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day2/Print_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day2/Tell_me_about_yourSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day3/ShoppingList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day3/escape_sequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day8_casting_scanner/Balance_Calculater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day9_scanner_practice/addNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day9_scanner_practice/askage_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_14_Multi_branch/Calculation_V1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_14_Multi_branch/CalculatorV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_14_Multi_branch/Weather_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_14_Multi_branch/Yes_or_no.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_14_Multi_branch/chooseLanguage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_14_Multi_branch/if_without_else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_14_Multi_branch/multi_branch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_15_Logical_Statement/And_Operator_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_15_Logical_Statement/Grade__.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_15_Logical_Statement/Job_offer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_15_Logical_Statement/Switch__.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_15_Logical_Statement/city__.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_15_Logical_Statement/logical_statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_15_Logical_Statement/used_car_selector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_16_switch/CappuccinoBuyer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_16_switch/NumberOfBedrooms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_16_switch/_switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_16_switch/elevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_17_Ternary_Practice/Nested_If.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_17_Ternary_Practice/Nested_if_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_17_Ternary_Practice/Ternary_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_17_Ternary_Practice/Ternary_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_17_Ternary_Practice/Ternary_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_18_conditions_review/Multi_Branch_if.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_18_conditions_review/ScoreRangeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_19_class_vs_object_string/Login_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_19_class_vs_object_string/Steam_SignUp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_19_class_vs_object_string/StringComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_19_class_vs_object_string/StringStartWith_EndWith.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_19_class_vs_object_string/String_Length.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_19_class_vs_object_string/String_case_conversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_19_class_vs_object_string/checkCaseMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_19_class_vs_object_string/check_case_match.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_20_String_manipulation/Creat_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_20_String_manipulation/String_CreationMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_20_String_manipulation/contain_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_20_String_manipulation/replace_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_21_String_manipulation/charAt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_21_String_manipulation/firstAndLastName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_21_String_manipulation/replace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_21_String_manipulation/replace_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_21_String_manipulation/replace_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_22_String_manipulation3/Char_at.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_22_String_manipulation3/Reverser_CharAt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_22_String_manipulation3/SubString_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_22_String_manipulation3/index_OF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_22_String_manipulation3/substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_23_String_manipulation4/Change_String_methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_23_String_manipulation4/message___.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_23_String_manipulation4/trim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_23_String_manipulation4/whileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_23_String_manipulation4/whileLoop2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_24_Loop/For_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_24_Loop/Result__.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_24_Loop/Return__.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_24_Loop/SUM__.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_24_Loop/a_z.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_24_Loop/do_while_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_24_Loop/guess_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_24_Loop/letter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_24_Loop/odd_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_24_Loop/timer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_24_Loop/whileloop_apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_24_Loop/youtube_cat_video.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_25_Loop2/for_loop_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_25_Loop2/for_loop_first.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_26_loop3/loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_26_loop3/loop_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_28_loop4/break_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_28_loop4/javacity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_29_loop5/NestedForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_29_loop5/_table_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_29_loop5/room_reservation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_29_loop5/task1_sumOf_twoNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_30_A_rrays/arrys1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_30_A_rrays/arrys2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_30_A_rrays/arrys3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_30_A_rrays/average__.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_30_A_rrays/for_each_loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_31_A_rrays_2/Arra_y_Joi_n_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_31_A_rrays_2/Array_Equals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_31_A_rrays_2/Array_util_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_31_A_rrays_2/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_31_A_rrays_2/a_rrays_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_31_A_rrays_2/char_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_32_Sp_lit_1/Count_Using_Split.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_32_Sp_lit_1/Split_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_32_Sp_lit_1/split_222.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_33_Split_2/For_loop_with2Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_33_Split_2/GroupFriend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_33_Split_2/Muli_D_Array_example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_33_Split_2/MultiDArray_Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_33_Split_2/ReverseArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_34_custom_void_methods/block.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_34_custom_void_methods/check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_34_custom_void_methods/checkEvenNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_34_custom_void_methods/first_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_34_custom_void_methods/staticKeyWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_34_custom_void_methods/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_34_custom_void_methods/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_35_methods_/Email_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_35_methods_/Void_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_35_methods_/custom_method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_35_methods_/printage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_35_methods_/show__Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_36_methods_with_return/CreditScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_36_methods_with_return/Sum_Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_36_methods_with_return/full_name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_37_methods_overloading/DaySelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_37_methods_overloading/RepeatString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_37_methods_overloading/Var_Args.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_37_methods_overloading/WarmUpMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_38_Methods_with_Arrays/RecursiveMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_38_Methods_with_Arrays/String_Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_39_wrapper_class/WrapperClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_40_ArraysList/Array_list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_40_ArraysList/Array_list_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_40_ArraysList/Raw_Arraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_40_ArraysList/Shopping_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_40_ArraysList/list.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_41_Array_List_2/Array_List_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_41_Array_List_2/Sorting_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_41_Array_List_2/my_Cars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_42_Array_List_3/Collections_util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_42_Array_List_3/Collections_util_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_42_Array_List_3/Mehtods_With_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_42_Array_List_3/Methods_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_42_Array_List_3/Unique_From_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_43_Arraylist/Method_With_List_return.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_44_custom_class_continued/Animal_Objects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_44_custom_class_continued/App_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_44_custom_class_continued/My_app.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_45_Opp_Help_and_Stack/Objects_Traffic_Light_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_45_Opp_Help_and_Stack/Traffic_Light.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Climbing_Stairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Interface/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Interface/FindChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Interface/Nokia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Interface/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Interface/Samsung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Interface/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Interface/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Interface/Xiaomi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Java_String_compareTo_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/find.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/instance__.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/static__.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/static_block.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day04varibles/Conversation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day04varibles/Conversation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day04varibles/DeclarartionTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day04varibles/DeclarartionTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day04varibles/FirstVarible.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day04varibles/FirstVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day04varibles/VariablesPrctice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day04varibles/VariablesPrctice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06_aritmmetic_operators/ArithemticOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day06_aritmmetic_operators/ArithemticOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06_aritmmetic_operators/CalculateAge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day06_aritmmetic_operators/CalculateAge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06_aritmmetic_operators/CarDriveInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day06_aritmmetic_operators/CarDriveInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day06_aritmmetic_operators/MoreMathOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day06_aritmmetic_operators/MoreMathOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day1/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day10_shorthand_operators/ChangeBalance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day10_shorthand_operators/ChangeBalance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day10_shorthand_operators/ChangeVariabValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day10_shorthand_operators/ChangeVariabValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day10_shorthand_operators/IncrementDecrementOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day10_shorthand_operators/IncrementDecrementOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day10_shorthand_operators/NextLineBug.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day10_shorthand_operators/NextLineBug.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day10_shorthand_operators/WeatherToday.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day10_shorthand_operators/WeatherToday.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day10_shorthand_operators/shortHandOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day10_shorthand_operators/shortHandOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day11_comparison_Operators/booleanComparisonOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day11_comparison_Operators/booleanComparisonOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day11_comparison_Operators/propost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day11_comparison_Operators/propost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12_conditional_statements/AmzoneFreeShipping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day12_conditional_statements/AmzoneFreeShipping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12_conditional_statements/CompareChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day12_conditional_statements/CompareChars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12_conditional_statements/ComparionExaples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day12_conditional_statements/ComparionExaples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12_conditional_statements/IF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day12_conditional_statements/IF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12_conditional_statements/IF_else.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day12_conditional_statements/IF_else.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day12_conditional_statements/If_Eles_Statement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day12_conditional_statements/If_Eles_Statement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day13_IF_Else_Statement/ATMP_in_program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day13_IF_Else_Statement/ATMP_in_program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day13_IF_Else_Statement/if_esle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day13_IF_Else_Statement/if_esle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/MySquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day2/MySquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/MyTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day2/MyTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/PringtingPrctice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day2/PringtingPrctice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/PrintVSPrintln.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day2/PrintVSPrintln.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/TellMeAboutYourself.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day2/TellMeAboutYourself.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day3/Comments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day3/Comments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day3/EmployeeInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day3/EmployeeInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day3/EscapeSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day3/EscapeSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day3/EscapeSequence2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day3/EscapeSequence2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day3/ShoppingReceipt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day3/ShoppingReceipt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day5_primtives__concatanaton/BooleanPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day5_primtives__concatanaton/BooleanPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day5_primtives__concatanaton/CellPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day5_primtives__concatanaton/CellPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day5_primtives__concatanaton/CharPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day5_primtives__concatanaton/CharPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day5_primtives__concatanaton/JobInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day5_primtives__concatanaton/JobInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day5_primtives__concatanaton/PrimtivesExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day5_primtives__concatanaton/PrimtivesExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day5_primtives__concatanaton/UsingVeriables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day5_primtives__concatanaton/UsingVeriables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day5_primtives__concatanaton/VariableWarmUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day5_primtives__concatanaton/VariableWarmUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day5_primtives__concatanaton/WatchInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day5_primtives__concatanaton/WatchInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day7ARITHMETIC_OPERATORS_casting/DivisionProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day7ARITHMETIC_OPERATORS_casting/DivisionProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day7ARITHMETIC_OPERATORS_casting/OperatorPrecendence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day7ARITHMETIC_OPERATORS_casting/OperatorPrecendence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day7ARITHMETIC_OPERATORS_casting/PrimitiveCasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day7ARITHMETIC_OPERATORS_casting/PrimitiveCasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day7ARITHMETIC_OPERATORS_casting/StringConcat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day7ARITHMETIC_OPERATORS_casting/StringConcat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day7ARITHMETIC_OPERATORS_casting/WarmUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day7ARITHMETIC_OPERATORS_casting/WarmUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day7ARITHMETIC_OPERATORS_casting/more.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day7ARITHMETIC_OPERATORS_casting/more.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day8_casting_scanner/CastingExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day8_casting_scanner/CastingExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day8_casting_scanner/ScannerIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day8_casting_scanner/ScannerIntro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day8_casting_scanner/ScannerPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day8_casting_scanner/ScannerPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day8_casting_scanner/ShoppingBalanceCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day8_casting_scanner/ShoppingBalanceCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day9_scanner_practice/AddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day9_scanner_practice/AddNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day9_scanner_practice/AskAge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day9_scanner_practice/AskAge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day9_scanner_practice/AskAge2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day9_scanner_practice/AskAge2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day9_scanner_practice/CC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day9_scanner_practice/CC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day9_scanner_practice/CentsToDollor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day9_scanner_practice/CentsToDollor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day9_scanner_practice/GroceryShopping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day9_scanner_practice/GroceryShopping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day9_scanner_practice/MilesToKmConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day9_scanner_practice/MilesToKmConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day9_scanner_practice/ReminderOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day9_scanner_practice/ReminderOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day9_scanner_practice/SpeedCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day9_scanner_practice/SpeedCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day9_scanner_practice/TempConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day9_scanner_practice/TempConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day9_scanner_practice/money.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Z_Java_Day_to_Day/day9_scanner_practice/money.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_14_Multi_branch/multi_branch.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +392,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -93,9 +400,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk/Contents/Home/src.zip!/java/lang/System.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
   <component name="ProjectId" id="2IcCYxIdw1gulV8wLZWfP83es09" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -104,31 +420,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/zachzulikram/IdeaProjects/day 1&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/zachzulikram/IdeaProjects/day 1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.multi_branch">
-    <configuration name="ATMP_in_program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day13_IF_Else_Statement.ATMP_in_program" />
+}]]></component>
+  <component name="RunManager" selected="Application.T">
+    <configuration name="FindChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Interface.FindChar" />
       <module name="Java Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day13_IF_Else_Statement.*" />
+          <option name="PATTERN" value="test.Interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +453,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AmzoneFreeShipping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12_conditional_statements.AmzoneFreeShipping" />
+    <configuration name="InstanceOf_Keyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="N_Java_Day_to_Day.day_58_OOP_Polymorphism.InstanceOf_Keyword" />
       <module name="Java Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12_conditional_statements.*" />
+          <option name="PATTERN" value="N_Java_Day_to_Day.day_58_OOP_Polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +466,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IF_else" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12_conditional_statements.IF_else" />
+    <configuration name="T" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Interface.T" />
       <module name="Java Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12_conditional_statements.*" />
+          <option name="PATTERN" value="test.Interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +479,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="if_esle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day13_IF_Else_Statement.if_esle" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Interface.Test" />
       <module name="Java Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day13_IF_Else_Statement.*" />
+          <option name="PATTERN" value="test.Interface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +492,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="multi_branch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_14_Multi_branch.multi_branch" />
+    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="N_Java_Day_to_Day.day_58_OOP_Polymorphism.AnimalTasks.Zoo" />
       <module name="Java Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_14_Multi_branch.*" />
+          <option name="PATTERN" value="N_Java_Day_to_Day.day_58_OOP_Polymorphism.AnimalTasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,11 +507,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.multi_branch" />
-        <item itemvalue="Application.if_esle" />
-        <item itemvalue="Application.ATMP_in_program" />
-        <item itemvalue="Application.AmzoneFreeShipping" />
-        <item itemvalue="Application.IF_else" />
+        <item itemvalue="Application.T" />
+        <item itemvalue="Application.FindChar" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.InstanceOf_Keyword" />
+        <item itemvalue="Application.Zoo" />
       </list>
     </recent_temporary>
   </component>
@@ -220,6 +537,8 @@
       <workItem from="1673223188285" duration="14000" />
       <workItem from="1673223289516" duration="905000" />
       <workItem from="1673225713430" duration="45000" />
+      <workItem from="1694315811809" duration="316000" />
+      <workItem from="1699206274945" duration="31000" />
     </task>
     <servers />
   </component>
@@ -231,7 +550,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -241,70 +566,385 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/day2/MySquare.java</url>
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day2/MySquare.java</url>
           <line>2</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/day3/ShoppingReceipt.java</url>
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day3/ShoppingReceipt.java</url>
           <line>2</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/day8_casting_scanner/CastingExamples.java</url>
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day8_casting_scanner/CastingExamples.java</url>
           <line>38</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/day9_scanner_practice/AskAge.java</url>
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day9_scanner_practice/AskAge.java</url>
           <line>2</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/day9_scanner_practice/AddNumbers.java</url>
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day9_scanner_practice/AddNumbers.java</url>
           <line>2</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/day9_scanner_practice/SpeedCheck.java</url>
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day9_scanner_practice/SpeedCheck.java</url>
           <line>2</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/day9_scanner_practice/CentsToDollor.java</url>
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day9_scanner_practice/CentsToDollor.java</url>
           <line>2</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/day12_conditional_statements/IF.java</url>
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day12_conditional_statements/IF.java</url>
           <line>3</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/day12_conditional_statements/If_Eles_Statement.java</url>
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day12_conditional_statements/If_Eles_Statement.java</url>
           <line>2</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/day13_IF_Else_Statement/if_esle.java</url>
-          <line>7</line>
+          <url>file://$PROJECT_DIR$/src/test/Java_String_compareTo_.java</url>
+          <line>2</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/day13_IF_Else_Statement/if_esle.java</url>
-          <line>9</line>
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_22_String_manipulation3/Reverser_CharAt.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_23_String_manipulation4/whileLoop2.java</url>
+          <line>2</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/day9_scanner_practice/AskAge.java</url>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_24_Loop/do_while_loop.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_24_Loop/guess_number.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_26_loop3/loop.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_26_loop3/loop_2.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_28_loop4/javacity.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_30_A_rrays/arrys2.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_31_A_rrays_2/char_Arrays.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_31_A_rrays_2/Arra_y_Joi_n_Method.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_32_Sp_lit_1/Split_1.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_34_custom_void_methods/test2.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_35_methods_/printage.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_35_methods_/show__Sum.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_35_methods_/Email_.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_37_methods_overloading/RepeatString.java</url>
           <line>4</line>
-          <properties class="day9_scanner_practice.AskAge" method="main">
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_38_Methods_with_Arrays/String_Utils.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_42_Array_List_3/Collections_util_2.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_42_Array_List_3/Unique_From_List.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_43_Arraylist/Method_With_List_return.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Replit/_004_PrintNumber.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Replit/_014_PrintVariable_05_2.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Replit/_017_PrintVariable_07.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Replit/_021_Add_Numbers.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Replit/_024_Patient_Information2.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Replit/_025_Greater_Number.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day3/escape_sequence.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day04varibles/conversatiion_.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day11_comparison_Operators/boolean_.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day13_IF_Else_Statement/ATM_Code.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day13_IF_Else_Statement/mtt_atmV4.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day13_IF_Else_Statement/Sales_Amount_.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_14_Multi_branch/Yes_or_no.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_14_Multi_branch/if_without_else.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_14_Multi_branch/Calculation_V1.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_15_Logical_Statement/city__.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_15_Logical_Statement/Grade__.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_16_switch/elevator.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_16_switch/CappuccinoBuyer.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_17_Ternary_Practice/Nested_If.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_21_String_manipulation/replace_practice.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_21_String_manipulation/replace_2.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_22_String_manipulation3/SubString_.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_23_String_manipulation4/message___.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_24_Loop/SUM__.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_24_Loop/Return__.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_24_Loop/Result__.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_29_loop5/task1_sumOf_twoNumber.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day_29_loop5/room_reservation.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/N_Java_Day_to_Day/day_48_OOP_InheritanceIntro/BOfa.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/N_Java_Day_to_Day/day_52_Exceptions_continue/Exceptions.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/N_Java_Day_to_Day/day_52_Exceptions_continue/MultiCatchBlock.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/N_Java_Day_to_Day/day_52_Exceptions_continue/ThrowsKeyword.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/N_Java_Day_to_Day/day_57_OOP_Polymorphism/EmployeeTask/Apple.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/N_Java_Day_to_Day/day_58_OOP_Polymorphism/AnimalTasks/Zoo.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Interface/FindChar.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Z_Java_Day_to_Day/day9_scanner_practice/AskAge.java</url>
+          <line>4</line>
+          <properties class="Z_Java_Day_to_Day.day9_scanner_practice.AskAge" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/N_Java_Day_to_Day/day_55_OOP_Abstraction_Continue/ShapeTasks/Rectangle.java</url>
+          <line>18</line>
+          <properties class="N_Java_Day_to_Day.day_55_OOP_Abstraction_Continue.ShapeTasks.Rectangle" method="calculateArea">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/N_Java_Day_to_Day/day_55_OOP_Abstraction_Continue/ShapeTasks/Rectangle.java</url>
+          <line>5</line>
+          <properties class="N_Java_Day_to_Day.day_55_OOP_Abstraction_Continue.ShapeTasks.Rectangle" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/N_Java_Day_to_Day/day_56_OOP_Abstraction_Interface/PhoneTasks/phone.java</url>
+          <line>15</line>
+          <properties class="N_Java_Day_to_Day.day_56_OOP_Abstraction_Interface.PhoneTasks.phone" method="toString">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/N_Java_Day_to_Day/day_56_OOP_Abstraction_Interface/PhoneTasks/Samsung.java</url>
+          <line>28</line>
+          <properties class="N_Java_Day_to_Day.day_56_OOP_Abstraction_Interface.PhoneTasks.Samsung" method="freezing">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
